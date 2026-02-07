@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3lvM3J3MXpqcXIybW5zNDQxeGE3aTQwdDVzbG9jM28wZ3Y0a3FuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ncvVb19XkscrWUVhiF/giphy.gif"  />
+</div>
+
 <h1 align="center">Hi, my temple is here</h1>
 <h3 align="center">Specialized in unmanned aerial vehicle systems and real-time embedded software development. Experienced in designing production-grade Qt/C++ desktop applications, low-latency telemetry infrastructures, and cross-platform build systems.</h3>
 
