@@ -1,0 +1,92 @@
+{
+  "username": "Hafikan",
+  "widgets": [
+    {
+      "instanceId": "widget_1789125430063",
+      "widgetId": "premium-ascii-profile-card",
+      "name": "Premium-ascii-profile-card Widget",
+      "position": {
+        "x": 0,
+        "y": 24
+      },
+      "size": {
+        "width": 472,
+        "height": 472
+      },
+      "config": {
+        "lockAspectRatio": true,
+        "transparentBackground": true,
+        "backgroundColor": "transparent",
+        "accentColor": "#e6edf3",
+        "secondaryColor": "#8b949e",
+        "borderColor": "#30363d",
+        "hideBorder": true,
+        "hideDecorations": true,
+        "showTitle": false,
+        "customRoles": "Distrubuted Systems Software Engineer",
+        "customWebsite": "hafikanyesilyurt.me",
+        "showRoles": true,
+        "showLocation": false,
+        "showTerminalPrompt": true,
+        "hideMetrics": [
+          "stars"
+        ],
+        "showTopRepos": false,
+        "maxRepos": 3,
+        "repoSortBy": "updated",
+        "hideLangsArr": [
+          "HTML",
+          "TypeScript",
+          "HTML5",
+          "CSS3",
+          "Rust",
+          "CSS",
+          "SCSS",
+          "Less"
+        ],
+        "hideLangs": "HTML,TypeScript,HTML5,CSS3,Rust,CSS,SCSS,Less"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1789125678934",
+      "widgetId": "premium-ascii-dev-score",
+      "name": "Premium-ascii-dev-score Widget",
+      "position": {
+        "x": 488,
+        "y": 136
+      },
+      "size": {
+        "width": 272,
+        "height": 272
+      },
+      "config": {
+        "lockAspectRatio": true,
+        "transparentBackground": true,
+        "backgroundColor": "transparent",
+        "accentColor": "#e6edf3",
+        "secondaryColor": "#8b949e",
+        "borderColor": "#30363d",
+        "showTotalScore": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#060606",
+    "textColor": "#e5e5e5",
+    "accentColor": "#c5ff4a",
+    "borderColor": "#252525",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "native"
+  },
+  "templateId": "native",
+  "profileSlug": "default"
+}
