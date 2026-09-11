@@ -7,7 +7,7 @@
       "name": "Premium-ascii-profile-card Widget",
       "position": {
         "x": 0,
-        "y": 24
+        "y": 0
       },
       "size": {
         "width": 472,
@@ -55,12 +55,12 @@
       "widgetId": "premium-ascii-dev-score",
       "name": "Premium-ascii-dev-score Widget",
       "position": {
-        "x": 488,
-        "y": 136
+        "x": 0,
+        "y": 304
       },
       "size": {
-        "width": 272,
-        "height": 272
+        "width": 392,
+        "height": 392
       },
       "config": {
         "lockAspectRatio": true,
