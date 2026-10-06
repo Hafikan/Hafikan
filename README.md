@@ -67,12 +67,6 @@ Production-grade Qt/C++ GCS for UAV ops: sub-100 ms telemetry visualization, FFm
 **📡 4G Autonomous UAV & Drone Port System**<br>
 4G link between quadcopter and drone port, tunneled SSH/SFTP/HTTP remote access, waypoint missions with geofencing & RTH failsafe, automated cargo-door triggers.
 
-### 📊 Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hafikan&show_icons=true&hide_border=true&theme=catppuccin_mocha" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafikan&layout=compact&hide_border=true&theme=catppuccin_mocha" />
-</p>
 
 ### 📫 Reach me
 
