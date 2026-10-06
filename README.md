@@ -1,25 +1,23 @@
-<!-- Replace USERNAME with your GitHub username -->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=89B4FA&center=true&vCenter=true&width=520&lines=Hafikan+Ye%C5%9Filyurt;Linux+%C2%B7+Qt+%C2%B7+Edge+Devices;I+break+my+desktop+so+you+don't+have+to" alt="typing header" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=89B4FA&center=true&vCenter=true&width=560&lines=Hafikan+Ye%C5%9Filyurt;Embedded+Software+Engineer;Qt%2FC%2B%2B+%C2%B7+UAV+Systems+%C2%B7+Edge+Linux;Field+crash+%E2%86%92+exact+source+line" alt="typing header" />
 
 </div>
 
 ```console
 cerb@arch ~ $ fetch
-                   -`                  cerb@arch
-                  .o+`                 ─────────────────────────────
-                 `ooo/                 os      Arch Linux
-                `+oooo:                wm      Hyprland  ·  KDE Plasma
-               `+oooooo:               shell   zsh  ·  kitty / Konsole
-               -+oooooo+:              theme   pywal (one palette, everywhere)
-             `/:-:++oooo+:             work    edge devices · kiosk provisioning
-            `/++++/+++++++:            stack   C++/Qt6 · Bash · Python · Debian
-           `/++++++++++++++:           now     building YAJC — a job collector
-          `/+++ooooooooooooo/`         langs   Türkçe · English
-         ./ooosssso++osssssso+`        
-        .oossssso-````/ossssss+`       
+                   -`                  hafikan@github
+                  .o+`                 ─────────────────────────────────────
+                 `ooo/                 role    Embedded Software Engineer
+                `+oooo:                now     Software Engineer @ Ustek RFID
+               `+oooooo:               before  UAV ground control & telemetry
+               -+oooooo+:              core    C++ (11→20) · Qt · CMake
+             `/:-:++oooo+:             metal   STM32 · ARM · UART/CAN/SPI/I2C
+            `/++++/+++++++:            infra   Docker · CI/CD · Breakpad/Crashpad
+           `/++++++++++++++:           os      Arch · Debian · Raspberry Pi OS
+          `/+++ooooooooooooo/`         arch    armhf · arm64 · amd64
+         ./ooosssso++osssssso+`        edu     EEE @ Sivas Cumhuriyet Univ.
+        .oossssso-````/ossssss+`       base    İstanbul, TR
        -osssssso.      :ssssssso.      
       :osssssss/        osssso+++.     
      /ossssssss/        +ssssooo/-     
@@ -31,31 +29,52 @@ cerb@arch ~ $ fetch
 
 ### 🛠️ Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=hyprland&logoColor=black" />
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white" />
-</p>
+**Languages & build**<br>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
+<img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" />
+
+**Embedded & robotics**<br>
+<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
+<img src="https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=arm&logoColor=white" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
+<img src="https://img.shields.io/badge/ROS_Noetic-22314E?style=flat-square&logo=ros&logoColor=white" />
+<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
+
+**Infra & tooling**<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Gitea_Actions-609926?style=flat-square&logo=gitea&logoColor=white" />
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/GDB_·_Valgrind-333333?style=flat-square&logo=gnu&logoColor=white" />
 
 ### 📌 What I work on
 
-- **Edge / kiosk Linux** — turning a fresh Debian install into a locked-down, remotely reachable appliance with one script (autologin, Qt app autostart, VNC, reverse SSH, Tailscale/Headscale).
-- **[YAJC](https://github.com/USERNAME/yajc)** — *Yet Another Job Collector*: profile → job intelligence → applications → interview prep → career analytics.
-- **Dotfiles & ricing** — Hyprland + KDE, pywal-driven theming shared across terminals. Lots of notes on what *doesn't* work (fractional scaling, I'm looking at you).
+**🔧 [Fieldline — Software Distribution & Crash Reporting](https://hafikanyesilyurt.me/projects/fieldline-software-distribution-and-crash-reporting-infrastructure-)** · *Ustek RFID, in production*<br>
+Lifecycle infrastructure for a Qt app running on customer edge devices (armhf / arm64 / x86 kiosks).
+- **Pkgline** — self-hosted, GPG-signed APT/pacman repo in pure shell: sftp-chroot build identities, arch-based routing, one-command rollback, 22 E2E scenarios.
+- **Crashpad CMake SDK** — Crashpad as a single shared lib + `.deb`/`.zip`, consumable via `find_package`.
+- **Crash Server** — FastAPI + SQLite, Breakpad symbolization, triage dashboard, Telegram alerts. A crash in the field traces back to the exact source line of that release.
+
+**🛩️ Ground Control Station** · *Solid Aero, team lead*<br>
+Production-grade Qt/C++ GCS for UAV ops: sub-100 ms telemetry visualization, FFmpeg/SDL2 RTSP video under 250 ms, TCP/Serial/Bluetooth behind one protocol layer, Qt ↔ web map over a custom WebSocket protocol.
+
+**📡 4G Autonomous UAV & Drone Port System**<br>
+4G link between quadcopter and drone port, tunneled SSH/SFTP/HTTP remote access, waypoint missions with geofencing & RTH failsafe, automated cargo-door triggers.
 
 ### 📊 Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&theme=catppuccin_mocha" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=catppuccin_mocha" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hafikan&show_icons=true&hide_border=true&theme=catppuccin_mocha" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafikan&layout=compact&hide_border=true&theme=catppuccin_mocha" />
 </p>
 
 ### 📫 Reach me
 
-<a href="mailto:cerb_tech@proton.me"><img src="https://img.shields.io/badge/Proton_Mail-6D4AFF?style=flat-square&logo=protonmail&logoColor=white" /></a>
+<a href="https://hafikanyesilyurt.me"><img src="https://img.shields.io/badge/hafikanyesilyurt.me-1E1E2E?style=flat-square&logo=googlechrome&logoColor=89B4FA" /></a>
+<a href="mailto:hafikanyesilyurt@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
